@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/ibm_zos_cics/commit/99ab69ddd65e7d60d3817a081e0856fa99dcc861",
       "git:hexsha": "99ab69ddd65e7d60d3817a081e0856fa99dcc861",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T17:12:59.389340+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/ibm_zos_cics/commit/64372db4688a64ba586efebf9d1a404f866aeeab",
